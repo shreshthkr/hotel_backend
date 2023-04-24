@@ -10,6 +10,56 @@
               "category" : "Dessert",
               "ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
               "instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
-        }
+        },
+        {
+          "id" : 2,
+          "username" : "cookwithmark",
+          "title" : "Butternut Squash Soup",
+          "image" : "https://i.imgur.com/pwpWaWu.jpg",
+          "description" : "A creamy and comforting soup made with roasted butternut squash and warm spices.",
+          "category" : "Starter",
+          "ingredients" : ["Butternut Squash", "Onion", "Garlic", "Chicken Stock"],
+          "instructions" : "Roast butternut squash and onion. Blend with chicken stock and spices until smooth."
+          },
+          {
+          "id" : 3,
+          "username" : "foodiealice",
+          "title" : "Creamy Mushroom Risotto",
+          "image" : "https://i.imgur.com/pwpWaWu.jpg",
+          "description" : "A rich and indulgent risotto made with earthy mushrooms and Parmesan cheese.",
+          "category" : "Main Course",
+          "ingredients" : ["Arborio Rice", "Mushrooms", "Parmesan Cheese", "White Wine"],
+          "instructions" : "Sauté mushrooms and onion. Add rice and wine. Gradually add broth until rice is cooked. Stir in Parmesan cheese."
+          },
+          {
+          "id" : 4,
+          "username" : "thehealthychef",
+          "title" : "Quinoa Stuffed Bell Peppers",
+          "image" : "https://i.imgur.com/pwpWaWu.jpg",
+          "description" : "A healthy and flavorful vegetarian dish made with quinoa, black beans, and bell peppers.",
+          "category" : "Main Course",
+          "ingredients" : ["Quinoa", "Bell Peppers", "Black Beans", "Tomatoes"],
+          "instructions" : "Cook quinoa. Mix with black beans, tomatoes, and spices. Stuff bell peppers and bake until tender."
+          },
+          {
+          "id" : 5,
+          "username" : "sweettreatsbylisa",
+          "title" : "Strawberry Cheesecake Bars",
+          "image" : "https://i.imgur.com/pwpWaWu.jpg",
+          "description" : "These cheesecake bars are made with a graham cracker crust and topped with fresh strawberries.",
+          "category" : "Dessert",
+          "ingredients" : ["Cream Cheese", "Graham Crackers", "Strawberries", "Sugar"],
+          "instructions" : "Mix cream cheese, sugar, and vanilla. Press graham cracker crust into pan. Pour filling over crust and bake. Top with sliced strawberries."
+          },
+          {
+          "id" : 6,
+          "username" : "bakersdelight",
+          "title" : "Classic Apple Pie",
+          "image" : "https://i.imgur.com/pwpWaWu.jpg",
+          "description" : "This classic apple pie is made with a flaky pastry crust and spiced apple filling.",
+          "category" : "Dessert",
+          "ingredients" : ["Apples", "Flour", "Butter", "Cinnamon"],
+          "instructions" : "Mix flour and butter to make crust. Mix apples, sugar, cinnamon, and flour for filling. Pour filling into crust and bake."
+          }
       ]
 }
